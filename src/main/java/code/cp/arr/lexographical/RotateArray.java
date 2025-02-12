@@ -39,5 +39,6 @@ public class RotateArray {
                 System.out.print(val + " ");
             }
         }
+        sc.close();
     }
 }
