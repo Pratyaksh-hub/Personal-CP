@@ -1,6 +1,6 @@
 package code.cp.arr.lexographical;
 
-import java.util.Scanner;
+import java.util.Scanner wjwiuhiue;
 
 //Rotate array to get lexo-graphically smallest array
 //Can use this code to rotate array from any given index
