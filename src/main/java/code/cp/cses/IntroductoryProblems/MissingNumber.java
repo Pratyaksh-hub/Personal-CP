@@ -12,6 +12,7 @@ public class MissingNumber {
         for(int i = 0; i < n - 1; i++) {
             nums[i] = sc.nextInt();
         }
+        sc.close();
         System.out.println(linearSearchWithArray(nums, n));
     }
 
